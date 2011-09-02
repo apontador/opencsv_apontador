@@ -1,4 +1,6 @@
 Biblioteca para realizar tanto parse de um arquivo csv para um bean java, tanto quanto para criar um csv a partir de uma colecao de beans.
 Realizei um fork do projeto principal, corrigindo algumas deficiencias e introduzindo outras funcionalidades. Fiz um submit de um diff
 no SourceForge original mas nao sei quando sera aceito.
-Vide IndigoOutageLogger no Mustang, para um exemplo de uso
+Vide IndigoOutageLogger no Mustang, para um exemplo de uso.
+---IMPORTANTE---
+Estou compilando com maven este projeto, gerando atualmente a versao 2.5 e subindo no artifactory interno do apontador como dependencia do Mustang.
